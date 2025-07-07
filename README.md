@@ -1,4 +1,5 @@
-# 🧰 DevOps Course - Installation Checklist
+# 🧰 DevOps Course 
+## Installation Checklist
 
 Before diving into DevOps workflows, make sure the following tools are installed and configured:
 
