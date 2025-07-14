@@ -1,4 +1,5 @@
-# 🧰 DevOps Course 
+# 🧰 DevOps Course
+
 ## Installation Checklist
 
 Before diving into DevOps workflows, make sure the following tools are installed and configured:
@@ -7,31 +8,36 @@ Before diving into DevOps workflows, make sure the following tools are installed
 
 - [Git for Windows](https://git-scm.com/download/win) (includes Git Bash) **IMPORTANT**
 
-
 ## 🖥️ Development Environments
 
 - [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) _(Minimum Community Edition)_
   - - [.NET SDK](https://dotnet.microsoft.com/en-us/download) (latest stable version) if you haven't installed recently
-- [Visual Studio Code](https://code.visualstudio.com/) 
+- [Visual Studio Code](https://code.visualstudio.com/)
   - Extensions:
     - C# (by Microsoft)
     - GitLens
-    
+
+## Github Resources
+
+- [Git Download](https://git-scm.com/downloads/win)
+- [Github Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Github Documentation](https://docs.github.com/)
+- [SSH Setup](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+- [Prerequisites](https://github.com/uerbzr/course-devops-prerequisites)
 
 ## 🧪 Other Useful
+
 Although not used on the course, a useful collection of resources for any developer:
 
-  
 - [GitHub Desktop](https://desktop.github.com/) _(optional GUI for Git workflows)_
 - [TortoiseGit](https://tortoisegit.org/) _(optional Git GUI for Windows users)_
 - 🐳 [Docker Desktop](https://www.docker.com/products/docker-desktop/)
   - Enable WSL 2 backend on Windows (recommended)
 - [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install) _(Ubuntu preferred)_
 
-
 - [Node.js LTS](https://nodejs.org/) _(for tooling and scripts)_
 
-- [PowerShell Core](https://github.com/PowerShell/PowerShell) _(for cross-platform scripting)
+- [PowerShell Core](https://github.com/PowerShell/PowerShell) \_(for cross-platform scripting)
 - [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
 - [GitHub CLI](https://cli.github.com/)
 - [Terraform](https://developer.hashicorp.com/terraform/downloads)
